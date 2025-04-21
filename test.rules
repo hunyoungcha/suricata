@@ -1,0 +1,57 @@
+alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10001; rev:1;)
+
+alert tcp any any -> any 80 (msg:"test.gilgil.net access"; content:"GET /"; content:"Host: "; content:"test.gilgil.net"; sid:10002; rev:1;)
+
+alert tcp any any -> any 80 (msg:"qt.io access"; content:"GET /"; content:"Host: "; content:"qt.io"; sid:10003; rev:1;)
+alert tls any any -> any 443 (msg:"TLS qt.io access"; tls.sni; content:"qt.io"; sid:20003; rev:1;)
+
+alert tcp any any -> any 80 (msg:"daum.net access"; content:"GET /"; content:"Host: "; content:"daum.net"; sid:10004; rev:1;)
+alert tls any any -> any 443 (msg:"TLS daum.net access"; tls.sni; content:"daum.net"; sid:20004; rev:1;)
+
+alert tcp any any -> any 80 (msg:"google.com access"; content:"GET /"; content:"Host: "; content:"google.com"; sid:10005; rev:1;)
+alert tls any any -> any 443 (msg:"TLS google.com access"; tls.sni; content:"google.com"; sid:20005; rev:1;)
+
+alert tcp any any -> any 80 (msg:"youtube.com access"; content:"GET /"; content:"Host: "; content:"youtube.com"; sid:10006; rev:1;)
+alert tls any any -> any 443 (msg:"TLS youtube.com access"; tls.sni; content:"youtube.com"; sid:20006; rev:1;)
+
+alert tcp any any -> any 80 (msg:"netflix.com"; content:"GET /"; content:"Host: "; content:"netflix.com"; sid:10007; rev:1;)
+alert tls any any -> any 443 (msg:"TLS netflix.com access"; tls.sni; content:"netflix.com"; sid:20007; rev:1;)
+
+alert tcp any any -> any 80 (msg:"naver.com access"; content:"GET /"; content:"Host: "; content:"naver.com"; sid:10008; rev:1;)
+alert tls any any -> any 443 (msg:"TLS naver.com access"; tls.sni; content:"naver.com"; sid:20008; rev:1;)
+
+alert tcp any any -> any 80 (msg:"pinterest.com"; content:"GET /"; content:"Host: "; content:"pinterest.com"; sid:10009; rev:1;)
+alert tls any any -> any 443 (msg:"TLS pinterest.com"; tls.sni; content:"pinterest.com"; sid:20009; rev:1;)
+
+alert tcp any any -> any 80 (msg:"instagram.com"; content:"GET /"; content:"Host: "; content:"instagram.com"; sid:10010; rev:1;)
+alert tls any any -> any 443 (msg:"TLS instagram.com"; tls.sni; content:"instagram.com"; sid:20010; rev:1;)
+
+alert tcp any any -> any 80 (msg:"wikipedia.org"; content:"GET /"; content:"Host: "; content:"wikipedia.org"; sid:10011; rev:1;)
+alert tls any any -> any 443 (msg:"TLS wikipedia.org"; tls.sni; content:"wikipedia.org"; sid:20011; rev:1;)
+
+alert tcp any any -> any 80 (msg:"facebook.com"; content:"GET /"; content:"Host: "; content:"facebook.com"; sid:10012; rev:1;)
+alert tls any any -> any 443 (msg:"TLS facebook.com"; tls.sni; content:"facebook.com"; sid:20012; rev:1;)
+
+alert tcp any any -> any 80 (msg:"amazon.com"; content:"GET /"; content:"Host: "; content:"amazon.com"; sid:10013; rev:1;)
+alert tls any any -> any 443 (msg:"TLS amazon.com"; tls.sni; content:"amazon.com"; sid:20013; rev:1;)
+
+alert tcp any any -> any 80 (msg:"linkedin.com"; content:"GET /"; content:"Host: "; content:"linkedin.com"; sid:10014; rev:1;)
+alert tls any any -> any 443 (msg:"TLS linkedin.com"; tls.sni; content:"linkedin.com"; sid:20014; rev:1;)
+
+alert tcp any any -> any 80 (msg:"microsoft.com"; content:"GET /"; content:"Host: "; content:"microsoft.com"; sid:10015; rev:1;)
+alert tls any any -> any 443 (msg:"TLS microsoft.com"; tls.sni; content:"microsoft.com"; sid:20015; rev:1;)
+
+alert tcp any any -> any 80 (msg:"reddit.com"; content:"GET /"; content:"Host: "; content:"reddit.com"; sid:10016; rev:1;)
+alert tls any any -> any 443 (msg:"TLS reddit.com"; tls.sni; content:"reddit.com"; sid:20016; rev:1;)
+
+alert tcp any any -> any 80 (msg:"yahoo.com"; content:"GET /"; content:"Host: "; content:"yahoo.com"; sid:10017; rev:1;)
+alert tls any any -> any 443 (msg:"TLS yahoo.com"; tls.sni; content:"yahoo.com"; sid:20017; rev:1;)
+
+alert tcp any any -> any 80 (msg:"zoom.us"; content:"GET /"; content:"Host: "; content:"zoom.us"; sid:10018; rev:1;)
+alert tls any any -> any 443 (msg:"TLS zoom.us"; tls.sni; content:"zoom.us"; sid:20018; rev:1;)
+
+alert tcp any any -> any 80 (msg:"discord.com"; content:"GET /"; content:"Host: "; content:"discord.com"; sid:10019; rev:1;)
+alert tls any any -> any 443 (msg:"TLS discord.com"; tls.sni; content:"discord.com"; sid:20019; rev:1;)
+
+alert tcp any any -> any 80 (msg:"spotify.com"; content:"GET /"; content:"Host: "; content:"spotify.com"; sid:10020; rev:1;)
+alert tls any any -> any 443 (msg:"TLS spotify.com"; tls.sni; content:"spotify.com"; sid:20020; rev:1;)

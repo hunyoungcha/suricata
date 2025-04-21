@@ -1,0 +1,322 @@
+04/17/2025-23:24:31.215095  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45240 -> 110.11.116.252:80
+04/17/2025-23:24:31.672390  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45260 -> 110.11.116.252:80
+04/17/2025-23:24:32.086248  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45244 -> 110.11.116.252:80
+04/17/2025-23:24:33.040437  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45240 -> 110.11.116.252:80
+04/17/2025-23:24:33.173507  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45244 -> 110.11.116.252:80
+04/17/2025-23:24:33.173595  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45298 -> 110.11.116.252:80
+04/17/2025-23:24:33.173580  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45240 -> 110.11.116.252:80
+04/17/2025-23:24:33.253275  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45282 -> 110.11.116.252:80
+04/17/2025-23:24:33.338089  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45302 -> 110.11.116.252:80
+04/17/2025-23:24:33.421431  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45268 -> 110.11.116.252:80
+04/17/2025-23:24:33.556145  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45282 -> 110.11.116.252:80
+04/17/2025-23:24:33.556259  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45244 -> 110.11.116.252:80
+04/17/2025-23:24:33.556648  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45268 -> 110.11.116.252:80
+04/17/2025-23:24:33.599581  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45298 -> 110.11.116.252:80
+04/17/2025-23:24:33.599680  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45302 -> 110.11.116.252:80
+04/17/2025-23:24:33.610555  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45244 -> 110.11.116.252:80
+04/17/2025-23:24:33.610675  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45268 -> 110.11.116.252:80
+04/17/2025-23:24:33.653475  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45282 -> 110.11.116.252:80
+04/17/2025-23:24:33.654089  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45240 -> 110.11.116.252:80
+04/17/2025-23:24:33.654748  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45244 -> 110.11.116.252:80
+04/17/2025-23:24:33.697851  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45268 -> 110.11.116.252:80
+04/17/2025-23:24:33.697982  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45302 -> 110.11.116.252:80
+04/17/2025-23:24:33.737950  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45298 -> 110.11.116.252:80
+04/17/2025-23:24:33.794072  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45244 -> 110.11.116.252:80
+04/17/2025-23:24:33.794341  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45298 -> 110.11.116.252:80
+04/17/2025-23:26:33.237998  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:33.600562  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43056 -> 110.11.116.252:80
+04/17/2025-23:26:33.919813  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:34.282080  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:34.568152  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43056 -> 110.11.116.252:80
+04/17/2025-23:26:34.817576  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:35.242327  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:35.511065  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43056 -> 110.11.116.252:80
+04/17/2025-23:26:35.840353  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:36.138045  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:36.410433  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43056 -> 110.11.116.252:80
+04/17/2025-23:26:36.803064  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:37.162059  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:37.433045  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43056 -> 110.11.116.252:80
+04/17/2025-23:26:37.760657  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:38.125999  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:38.390846  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43056 -> 110.11.116.252:80
+04/17/2025-23:26:38.722067  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:39.086212  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/17/2025-23:26:39.350842  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43056 -> 110.11.116.252:80
+04/17/2025-23:26:39.681386  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43044 -> 110.11.116.252:80
+04/21/2025-05:59:44.144321  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:55626 -> 110.11.116.252:80
+04/21/2025-05:59:47.389750  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50922 -> 110.11.116.252:80
+04/21/2025-06:08:21.058435  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42484 -> 223.130.200.236:443
+04/21/2025-06:08:39.772602  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:36230 -> 223.130.192.248:443
+04/21/2025-06:08:42.484170  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:48188 -> 61.247.194.56:443
+04/21/2025-06:08:42.705560  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59442 -> 110.93.151.161:443
+04/21/2025-06:08:42.716558  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:36668 -> 110.93.154.77:443
+04/21/2025-06:08:42.740691  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51852 -> 110.93.154.74:443
+04/21/2025-06:08:42.740858  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51864 -> 110.93.154.74:443
+04/21/2025-06:08:42.750345  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51876 -> 110.93.154.74:443
+04/21/2025-06:08:42.862767  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42664 -> 223.130.192.205:443
+04/21/2025-06:08:42.905041  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42670 -> 223.130.192.205:443
+04/21/2025-06:08:42.916634  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42680 -> 223.130.192.205:443
+04/21/2025-06:08:43.035239  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:47356 -> 202.179.178.29:443
+04/21/2025-06:08:43.041062  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33966 -> 110.93.151.132:443
+04/21/2025-06:08:43.044647  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33976 -> 110.93.151.132:443
+04/21/2025-06:08:43.051952  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33982 -> 110.93.151.132:443
+04/21/2025-06:08:43.066093  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34006 -> 110.93.151.132:443
+04/21/2025-06:08:43.066051  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33984 -> 110.93.151.132:443
+04/21/2025-06:08:43.066435  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33994 -> 110.93.151.132:443
+04/21/2025-06:08:43.551505  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45776 -> 210.89.168.50:443
+04/21/2025-06:08:43.554798  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45782 -> 210.89.168.50:443
+04/21/2025-06:08:43.943929  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54688 -> 202.131.26.27:443
+04/21/2025-06:31:07.133896  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43714 -> 223.130.192.247:443
+04/21/2025-06:31:24.765657  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42282 -> 223.130.200.219:443
+04/21/2025-06:31:46.074494  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:47322 -> 223.130.192.247:443
+04/21/2025-07:36:39.712858  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58956 -> 110.11.116.252:80
+04/21/2025-07:36:39.935037  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58966 -> 110.11.116.252:80
+04/21/2025-07:36:40.139342  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58956 -> 110.11.116.252:80
+04/21/2025-07:36:40.693324  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58956 -> 110.11.116.252:80
+04/21/2025-07:36:45.311338  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58974 -> 110.11.116.252:80
+04/21/2025-07:36:45.311338  [**] [1:10002:1] test.gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58974 -> 110.11.116.252:80
+04/21/2025-07:36:45.364300  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58970 -> 110.11.116.252:80
+04/21/2025-07:36:45.364300  [**] [1:10002:1] test.gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58970 -> 110.11.116.252:80
+04/21/2025-07:36:50.587770  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:39918 -> 52.18.144.254:80
+04/21/2025-07:36:50.708450  [**] [1:20003:1] TLS qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:57984 -> 199.60.103.31:443
+04/21/2025-07:36:53.344471  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:55090 -> 142.250.206.196:443
+04/21/2025-07:36:53.683328  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:39136 -> 216.239.32.181:443
+04/21/2025-07:36:53.717318  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:39138 -> 216.239.32.181:443
+04/21/2025-07:36:54.101611  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46280 -> 146.75.49.140:443
+04/21/2025-07:36:54.183208  [**] [1:20014:1] TLS linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:47984 -> 150.171.22.12:443
+04/21/2025-07:36:54.408684  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46292 -> 146.75.49.140:443
+04/21/2025-07:36:54.658356  [**] [1:20009:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51756 -> 157.240.215.35:443
+04/21/2025-07:36:54.658356  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51756 -> 157.240.215.35:443
+04/21/2025-07:36:58.026917  [**] [1:20003:1] TLS qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41558 -> 77.86.162.2:443
+04/21/2025-07:36:58.738248  [**] [1:10004:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41854 -> 211.249.220.24:80
+04/21/2025-07:36:58.770874  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51994 -> 211.249.220.24:443
+04/21/2025-07:36:58.860780  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:39064 -> 121.53.105.193:443
+04/21/2025-07:36:59.399364  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45630 -> 121.53.105.132:443
+04/21/2025-07:36:59.619317  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54326 -> 211.231.99.14:443
+04/21/2025-07:36:59.619511  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54336 -> 211.231.99.14:443
+04/21/2025-07:36:59.727240  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:44412 -> 121.53.88.80:443
+04/21/2025-07:36:59.911154  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50146 -> 121.53.105.246:443
+04/21/2025-07:36:59.952054  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54338 -> 211.231.99.14:443
+04/21/2025-07:36:59.969161  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54348 -> 211.231.99.14:443
+04/21/2025-07:37:00.139064  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:55618 -> 121.53.105.232:443
+04/21/2025-07:37:00.139213  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:40840 -> 121.53.93.48:443
+04/21/2025-07:37:00.156284  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:55624 -> 121.53.105.232:443
+04/21/2025-07:37:00.313216  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54352 -> 211.231.99.14:443
+04/21/2025-07:37:00.594596  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37696 -> 121.53.105.147:443
+04/21/2025-07:37:00.630037  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54358 -> 211.231.99.14:443
+04/21/2025-07:37:02.465970  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60816 -> 121.53.104.203:443
+04/21/2025-07:37:02.476854  [**] [1:20004:1] TLS daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60818 -> 121.53.104.203:443
+04/21/2025-07:37:03.608334  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60460 -> 142.250.207.100:443
+04/21/2025-07:37:05.096510  [**] [1:10005:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38654 -> 142.250.207.110:80
+04/21/2025-07:37:05.299656  [**] [1:10005:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51280 -> 142.250.206.196:80
+04/21/2025-07:37:05.814502  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:53128 -> 34.128.9.241:443
+04/21/2025-07:37:06.378453  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37560 -> 142.250.76.138:443
+04/21/2025-07:37:07.417796  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38878 -> 172.217.25.174:443
+04/21/2025-07:37:10.572825  [**] [1:10006:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:32784 -> 142.250.207.110:80
+04/21/2025-07:37:10.795637  [**] [1:20006:1] TLS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38886 -> 172.217.25.174:443
+04/21/2025-07:37:11.151479  [**] [1:20006:1] TLS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46940 -> 142.250.206.206:443
+04/21/2025-07:37:11.857263  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37904 -> 64.233.189.84:443
+04/21/2025-07:37:12.619751  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:36380 -> 142.250.206.196:443
+04/21/2025-07:37:14.993699  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38898 -> 172.217.25.174:443
+04/21/2025-07:37:14.993944  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38908 -> 172.217.25.174:443
+04/21/2025-07:37:16.730476  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42902 -> 223.130.192.247:443
+04/21/2025-07:37:21.362198  [**] [1:10007:1] netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:56470 -> 52.38.7.83:80
+04/21/2025-07:37:21.675189  [**] [1:20007:1] TLS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:48460 -> 44.240.158.19:443
+04/21/2025-07:37:22.287598  [**] [1:20007:1] TLS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51116 -> 44.234.232.238:443
+04/21/2025-07:37:23.725470  [**] [1:20007:1] TLS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58134 -> 52.10.208.126:443
+04/21/2025-07:37:23.761378  [**] [1:20007:1] TLS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58144 -> 52.10.208.126:443
+04/21/2025-07:37:26.078575  [**] [1:20007:1] TLS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58156 -> 52.10.208.126:443
+04/21/2025-07:37:26.791364  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:47236 -> 223.130.192.247:443
+04/21/2025-07:37:28.054389  [**] [1:20007:1] TLS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51468 -> 34.209.190.101:443
+04/21/2025-07:37:28.237859  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33960 -> 110.93.154.72:443
+04/21/2025-07:37:28.239408  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:36040 -> 110.93.154.77:443
+04/21/2025-07:37:28.334413  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46706 -> 110.93.151.163:443
+04/21/2025-07:37:28.339244  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46710 -> 110.93.151.163:443
+04/21/2025-07:37:28.352232  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46714 -> 110.93.151.163:443
+04/21/2025-07:37:28.425767  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51782 -> 210.89.168.82:443
+04/21/2025-07:37:28.426499  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51780 -> 210.89.168.82:443
+04/21/2025-07:37:28.428683  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51768 -> 210.89.168.82:443
+04/21/2025-07:37:28.494772  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60552 -> 210.89.168.48:443
+04/21/2025-07:37:28.497636  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60526 -> 210.89.168.48:443
+04/21/2025-07:37:28.497085  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60542 -> 210.89.168.48:443
+04/21/2025-07:37:28.500286  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60506 -> 210.89.168.48:443
+04/21/2025-07:37:28.499896  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60510 -> 210.89.168.48:443
+04/21/2025-07:37:28.524782  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60546 -> 210.89.168.48:443
+04/21/2025-07:37:28.723844  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42936 -> 223.130.192.205:443
+04/21/2025-07:37:28.723449  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42924 -> 223.130.192.205:443
+04/21/2025-07:37:28.746535  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:36258 -> 110.93.151.56:443
+04/21/2025-07:37:28.787489  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42948 -> 223.130.192.205:443
+04/21/2025-07:37:28.837532  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42956 -> 223.130.192.205:443
+04/21/2025-07:37:28.977157  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42650 -> 210.89.168.79:443
+04/21/2025-07:37:28.981170  [**] [1:20008:1] TLS naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42662 -> 210.89.168.79:443
+04/21/2025-07:37:33.819345  [**] [1:10009:1] facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46390 -> 157.240.215.35:80
+04/21/2025-07:37:33.819345  [**] [1:10012:1] facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46390 -> 157.240.215.35:80
+04/21/2025-07:37:33.843086  [**] [1:20009:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34924 -> 157.240.215.35:443
+04/21/2025-07:37:33.843086  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34924 -> 157.240.215.35:443
+04/21/2025-07:37:34.091573  [**] [1:20009:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34930 -> 157.240.215.35:443
+04/21/2025-07:37:34.091573  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34930 -> 157.240.215.35:443
+04/21/2025-07:37:40.024031  [**] [1:10010:1] instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60060 -> 157.240.215.174:80
+04/21/2025-07:37:40.061665  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50960 -> 157.240.215.174:443
+04/21/2025-07:37:40.413856  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50972 -> 157.240.215.174:443
+04/21/2025-07:37:41.087580  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46662 -> 157.240.215.63:443
+04/21/2025-07:37:41.090883  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46646 -> 157.240.215.63:443
+04/21/2025-07:37:41.092607  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46694 -> 157.240.215.63:443
+04/21/2025-07:37:41.092696  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46678 -> 157.240.215.63:443
+04/21/2025-07:37:41.092743  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46674 -> 157.240.215.63:443
+04/21/2025-07:37:41.093384  [**] [1:20010:1] TLS instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46670 -> 157.240.215.63:443
+04/21/2025-07:37:48.564351  [**] [1:10011:1] wikipedia.org [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37686 -> 103.102.166.224:80
+04/21/2025-07:37:48.793818  [**] [1:20011:1] TLS wikipedia.org [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54044 -> 103.102.166.224:443
+04/21/2025-07:37:49.105238  [**] [1:20011:1] TLS wikipedia.org [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54054 -> 103.102.166.224:443
+04/21/2025-07:37:49.526054  [**] [1:20011:1] TLS wikipedia.org [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54070 -> 103.102.166.224:443
+04/21/2025-07:38:33.973101  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42112 -> 64.233.189.84:443
+04/21/2025-07:38:35.752596  [**] [1:20009:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:36946 -> 157.240.215.35:443
+04/21/2025-07:38:35.752596  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:36946 -> 157.240.215.35:443
+04/21/2025-07:38:45.352922  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:44652 -> 172.217.25.174:443
+04/21/2025-07:38:45.358826  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:44646 -> 172.217.25.174:443
+04/21/2025-07:38:45.358770  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:44636 -> 172.217.25.174:443
+04/21/2025-07:38:45.364722  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:44662 -> 172.217.25.174:443
+04/21/2025-07:38:52.260780  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33928 -> 74.125.23.84:443
+04/21/2025-07:39:44.588996  [**] [1:10013:1] amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46288 -> 205.251.242.103:80
+04/21/2025-07:39:44.992804  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60478 -> 54.239.28.85:443
+04/21/2025-07:39:45.424698  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:49110 -> 13.225.110.99:443
+04/21/2025-07:39:45.881291  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54752 -> 23.50.121.152:443
+04/21/2025-07:39:45.884636  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41244 -> 3.168.168.196:443
+04/21/2025-07:39:45.884740  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41228 -> 3.168.168.196:443
+04/21/2025-07:39:46.032103  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54760 -> 23.50.121.152:443
+04/21/2025-07:39:46.474422  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58194 -> 54.175.228.105:443
+04/21/2025-07:39:47.360664  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58734 -> 44.215.128.78:443
+04/21/2025-07:39:47.552765  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50596 -> 44.215.116.52:443
+04/21/2025-07:39:47.781271  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50598 -> 44.215.116.52:443
+04/21/2025-07:39:49.275615  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42522 -> 180.222.106.12:443
+04/21/2025-07:39:50.074861  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50610 -> 44.215.116.52:443
+04/21/2025-07:39:50.112806  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50612 -> 44.215.116.52:443
+04/21/2025-07:39:50.520195  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41544 -> 157.240.215.35:443
+04/21/2025-07:39:50.686831  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:40714 -> 180.222.109.252:443
+04/21/2025-07:39:51.186275  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54844 -> 180.222.109.251:443
+04/21/2025-07:39:52.169282  [**] [1:10014:1] linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45426 -> 150.171.22.12:80
+04/21/2025-07:39:52.207568  [**] [1:20014:1] TLS linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:55090 -> 150.171.22.12:443
+04/21/2025-07:39:52.578718  [**] [1:20013:1] TLS amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50616 -> 44.215.116.52:443
+04/21/2025-07:39:52.827030  [**] [1:20014:1] TLS linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33656 -> 146.75.51.42:443
+04/21/2025-07:39:53.056210  [**] [1:20014:1] TLS linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:35772 -> 144.2.9.1:443
+04/21/2025-07:39:53.341357  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43966 -> 108.177.97.84:443
+04/21/2025-07:39:53.352373  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43952 -> 108.177.97.84:443
+04/21/2025-07:39:53.773071  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41548 -> 157.240.215.35:443
+04/21/2025-07:40:01.043580  [**] [1:10015:1] microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50962 -> 13.107.246.59:80
+04/21/2025-07:40:01.083838  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60146 -> 13.107.246.59:443
+04/21/2025-07:40:01.124630  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:39784 -> 23.208.21.58:443
+04/21/2025-07:40:01.331110  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37914 -> 23.44.173.57:443
+04/21/2025-07:40:01.345444  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42962 -> 13.107.246.74:443
+04/21/2025-07:40:01.407884  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59772 -> 59.151.136.189:443
+04/21/2025-07:40:01.519466  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59774 -> 59.151.136.189:443
+04/21/2025-07:40:01.519550  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59790 -> 59.151.136.189:443
+04/21/2025-07:40:01.519717  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59810 -> 59.151.136.189:443
+04/21/2025-07:40:01.519655  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59814 -> 59.151.136.189:443
+04/21/2025-07:40:01.520299  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59800 -> 59.151.136.189:443
+04/21/2025-07:40:01.552067  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50234 -> 142.250.206.238:443
+04/21/2025-07:40:01.617422  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:48810 -> 20.72.243.62:443
+04/21/2025-07:40:01.618937  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59824 -> 59.151.136.189:443
+04/21/2025-07:40:01.720555  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:56656 -> 23.51.202.33:443
+04/21/2025-07:40:01.817791  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59834 -> 59.151.136.189:443
+04/21/2025-07:40:01.995291  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:56662 -> 23.51.202.33:443
+04/21/2025-07:40:02.784344  [**] [1:20014:1] TLS linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59998 -> 150.171.22.12:443
+04/21/2025-07:40:03.126509  [**] [1:20014:1] TLS linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60012 -> 150.171.22.12:443
+04/21/2025-07:40:03.149892  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:52102 -> 20.50.201.195:443
+04/21/2025-07:40:03.240636  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:52114 -> 20.50.201.195:443
+04/21/2025-07:40:03.274308  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:53932 -> 157.240.215.35:443
+04/21/2025-07:40:03.447996  [**] [1:20015:1] TLS microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:57920 -> 63.140.50.229:443
+04/21/2025-07:40:03.826337  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:53938 -> 157.240.215.35:443
+04/21/2025-07:40:03.829120  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:53946 -> 157.240.215.35:443
+04/21/2025-07:40:03.829265  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:53958 -> 157.240.215.35:443
+04/21/2025-07:40:03.829460  [**] [1:20012:1] TLS facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:53950 -> 157.240.215.35:443
+04/21/2025-07:40:04.294541  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:39684 -> 142.250.207.100:443
+04/21/2025-07:40:06.615808  [**] [1:10016:1] reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:57496 -> 151.101.129.140:80
+04/21/2025-07:40:06.651148  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38686 -> 151.101.65.140:443
+04/21/2025-07:40:06.698263  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33952 -> 146.75.49.140:443
+04/21/2025-07:40:08.568186  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46078 -> 146.75.49.140:443
+04/21/2025-07:40:08.772139  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43074 -> 142.250.157.84:443
+04/21/2025-07:40:08.772251  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:58124 -> 142.250.206.228:443
+04/21/2025-07:40:08.916889  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46098 -> 146.75.49.140:443
+04/21/2025-07:40:08.917041  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46082 -> 146.75.49.140:443
+04/21/2025-07:40:09.810499  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45830 -> 142.250.207.100:443
+04/21/2025-07:40:09.819257  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45842 -> 142.250.207.100:443
+04/21/2025-07:40:09.824469  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45832 -> 142.250.207.100:443
+04/21/2025-07:40:10.144670  [**] [1:20016:1] TLS reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:46104 -> 146.75.49.140:443
+04/21/2025-07:40:14.183831  [**] [1:10017:1] yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:54050 -> 98.137.11.163:80
+04/21/2025-07:40:14.647496  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42278 -> 74.6.143.26:443
+04/21/2025-07:40:15.308899  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34968 -> 180.222.106.12:443
+04/21/2025-07:40:15.882284  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:57724 -> 180.222.102.158:443
+04/21/2025-07:40:15.938485  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:56548 -> 172.217.25.174:443
+04/21/2025-07:40:15.961193  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:57732 -> 180.222.102.158:443
+04/21/2025-07:40:16.026032  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:35840 -> 106.10.218.137:443
+04/21/2025-07:40:16.357850  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:50170 -> 180.222.106.11:443
+04/21/2025-07:40:16.560064  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51708 -> 106.10.218.155:443
+04/21/2025-07:40:16.576090  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51720 -> 106.10.218.155:443
+04/21/2025-07:40:16.582282  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51702 -> 106.10.218.155:443
+04/21/2025-07:40:16.695170  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38740 -> 3.175.34.57:443
+04/21/2025-07:40:16.811509  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:57738 -> 180.222.102.158:443
+04/21/2025-07:40:17.283054  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42362 -> 180.222.102.158:443
+04/21/2025-07:40:17.301676  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34928 -> 34.208.98.206:443
+04/21/2025-07:40:17.806387  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43622 -> 180.222.109.251:443
+04/21/2025-07:40:17.806553  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43624 -> 180.222.109.251:443
+04/21/2025-07:40:17.885433  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:59084 -> 180.222.106.11:443
+04/21/2025-07:40:17.975217  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45662 -> 54.148.230.125:443
+04/21/2025-07:40:17.975334  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45618 -> 54.148.230.125:443
+04/21/2025-07:40:17.975276  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45606 -> 54.148.230.125:443
+04/21/2025-07:40:17.978043  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45682 -> 54.148.230.125:443
+04/21/2025-07:40:17.978188  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45644 -> 54.148.230.125:443
+04/21/2025-07:40:17.978434  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45646 -> 54.148.230.125:443
+04/21/2025-07:40:17.981376  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45694 -> 54.148.230.125:443
+04/21/2025-07:40:17.989942  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45688 -> 54.148.230.125:443
+04/21/2025-07:40:17.990225  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45632 -> 54.148.230.125:443
+04/21/2025-07:40:18.006267  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45710 -> 54.148.230.125:443
+04/21/2025-07:40:18.013361  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45660 -> 54.148.230.125:443
+04/21/2025-07:40:18.013290  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:45674 -> 54.148.230.125:443
+04/21/2025-07:40:18.397182  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42372 -> 180.222.102.158:443
+04/21/2025-07:40:18.440888  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43968 -> 180.222.106.12:443
+04/21/2025-07:40:18.441004  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43940 -> 180.222.106.12:443
+04/21/2025-07:40:18.440943  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43948 -> 180.222.106.12:443
+04/21/2025-07:40:18.492752  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43964 -> 180.222.106.12:443
+04/21/2025-07:40:20.168921  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41636 -> 52.220.193.162:443
+04/21/2025-07:40:20.677038  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38782 -> 3.175.34.57:443
+04/21/2025-07:40:21.141894  [**] [1:10018:1] zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:57354 -> 170.114.52.2:80
+04/21/2025-07:40:21.190372  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42376 -> 180.222.102.158:443
+04/21/2025-07:40:21.345091  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:49336 -> 170.114.52.2:443
+04/21/2025-07:40:21.610572  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42388 -> 180.222.102.158:443
+04/21/2025-07:40:22.096534  [**] [1:20017:1] TLS yahoo.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:42390 -> 180.222.102.158:443
+04/21/2025-07:40:22.136436  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51786 -> 170.114.45.1:443
+04/21/2025-07:40:22.138740  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51784 -> 170.114.45.1:443
+04/21/2025-07:40:22.138839  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51770 -> 170.114.45.1:443
+04/21/2025-07:40:22.142696  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51764 -> 170.114.45.1:443
+04/21/2025-07:40:22.144346  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51748 -> 170.114.45.1:443
+04/21/2025-07:40:22.144534  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51752 -> 170.114.45.1:443
+04/21/2025-07:40:22.146311  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51762 -> 170.114.45.1:443
+04/21/2025-07:40:22.157255  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51742 -> 170.114.45.1:443
+04/21/2025-07:40:22.825363  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37306 -> 52.84.151.60:443
+04/21/2025-07:40:22.970374  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51792 -> 170.114.45.1:443
+04/21/2025-07:40:23.709469  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:49338 -> 170.114.52.2:443
+04/21/2025-07:40:24.068724  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51796 -> 170.114.45.1:443
+04/21/2025-07:40:24.089537  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37312 -> 52.84.151.60:443
+04/21/2025-07:40:24.252519  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:51810 -> 170.114.45.1:443
+04/21/2025-07:40:26.519705  [**] [1:20018:1] TLS zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:34428 -> 170.114.46.1:443
+04/21/2025-07:40:29.367670  [**] [1:20003:1] TLS qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:47048 -> 77.86.162.2:443
+04/21/2025-07:40:30.106313  [**] [1:10019:1] discord.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:48066 -> 162.159.137.232:80
+04/21/2025-07:40:30.159256  [**] [1:20019:1] TLS discord.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:60470 -> 162.159.128.233:443
+04/21/2025-07:40:32.098274  [**] [1:20006:1] TLS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:41252 -> 142.250.206.206:443
+04/21/2025-07:40:37.374708  [**] [1:10020:1] spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:43670 -> 35.186.224.24:80
+04/21/2025-07:40:37.439192  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37176 -> 35.186.224.24:443
+04/21/2025-07:40:37.599385  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:38914 -> 146.75.51.42:443
+04/21/2025-07:40:37.790694  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37198 -> 35.186.224.24:443
+04/21/2025-07:40:37.791432  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37186 -> 35.186.224.24:443
+04/21/2025-07:40:37.794869  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37216 -> 35.186.224.24:443
+04/21/2025-07:40:37.794928  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37210 -> 35.186.224.24:443
+04/21/2025-07:40:37.798172  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37232 -> 35.186.224.24:443
+04/21/2025-07:40:37.798226  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37202 -> 35.186.224.24:443
+04/21/2025-07:40:37.878039  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37240 -> 35.186.224.24:443
+04/21/2025-07:40:37.891300  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:40172 -> 35.186.224.22:443
+04/21/2025-07:40:37.891360  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:39810 -> 35.186.224.40:443
+04/21/2025-07:40:37.891397  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37242 -> 35.186.224.24:443
+04/21/2025-07:40:37.993392  [**] [1:20005:1] TLS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:33256 -> 142.250.206.228:443
+04/21/2025-07:40:39.926443  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37254 -> 35.186.224.24:443
+04/21/2025-07:40:40.393334  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37262 -> 35.186.224.24:443
+04/21/2025-07:40:40.397094  [**] [1:20020:1] TLS spotify.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.150.128:37268 -> 35.186.224.24:443
